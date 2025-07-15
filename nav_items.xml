@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bowlerAverage"
+        android:title="@string/bowler_average" />
+
+    <item
+        android:id="@+id/bowlerStrikeRate"
+        android:title="@string/bowler_strike_rate" />
+    <item
+        android:id="@+id/bowlerEconomy"
+        android:title="@string/bowler_economy" />
+</menu>

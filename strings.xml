@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bowler Stats</string>
+    <string name="bowler_average">Calculate Average</string>
+    <string name="bowler_strike_rate">Calculate Strike Rate</string>
+    <string name="bowler_economy">Calculate Economy</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="avgFormula">Bowling Average = Total Runs Conceded / Total Wickets Taken</string>
+    <string name="strikeRateFormula">Bowling Strike Rate = Total Balls Bowled / Total Wickets Taken</string>
+    <string name="economyFormula">Economy = Total Runs Conceded / (Total Balls Bowled / 6)
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
